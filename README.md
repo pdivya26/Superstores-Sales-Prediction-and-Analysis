@@ -2,8 +2,6 @@
 
 This project focuses on predicting future sales using supervised machine learning algorithms including **Random Forest**, **XGBoost**, and **Gradient Boosting**. It aims to help businesses make informed inventory and marketing decisions.
 
----
-
 ## Features
 
 - Data cleaning and preprocessing
@@ -11,8 +9,6 @@ This project focuses on predicting future sales using supervised machine learnin
 - Model training and evaluation
 - Performance comparison using metrics (Accuracy, MAE, RMSE)
 - Visualization of predictions and feature importance
-
----
 
 ## Technologies Used
 
