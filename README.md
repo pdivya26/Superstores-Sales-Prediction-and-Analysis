@@ -20,13 +20,13 @@ This project focuses on predicting future sales using supervised machine learnin
 
 ## Implementation Screenshots
 
-![image](https://github.com/user-attachments/assets/65a7feb2-6542-43cf-a4e6-d9eb201bf4d7)
+![Screenshot 2025-06-09 204101](https://github.com/user-attachments/assets/38133332-3b1a-48c3-b7ae-910837327a37)
 
-![image](https://github.com/user-attachments/assets/581ffd6d-f1be-4c13-b467-c6211c732564)
+![Screenshot 2025-06-09 204108](https://github.com/user-attachments/assets/a5377e49-1744-4d0a-a388-4d109704ab50)
 
-![image](https://github.com/user-attachments/assets/5d5c1aa5-45b9-40c0-b556-a7d611c2d409)
+![Screenshot 2025-06-09 204136](https://github.com/user-attachments/assets/c01827a3-d393-4d95-a314-359825470123)
 
-![image](https://github.com/user-attachments/assets/824b6c41-2e7a-4b1c-92f6-6f16ae529d23)
+![Screenshot 2025-06-09 204149](https://github.com/user-attachments/assets/b0ea70b4-01cb-40bd-882e-96ee93a0b37a)
 
 ![image](https://github.com/user-attachments/assets/961a6e7e-4cea-46f3-acc3-296277b4a683)
 
