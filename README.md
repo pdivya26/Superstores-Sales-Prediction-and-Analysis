@@ -20,14 +20,18 @@ This project focuses on predicting future sales using supervised machine learnin
 
 ## Implementation Screenshots
 
-![Screenshot 2025-06-09 204101](https://github.com/user-attachments/assets/38133332-3b1a-48c3-b7ae-910837327a37)
+![Screenshot 2025-06-16 004313](https://github.com/user-attachments/assets/54fcbebf-2870-4ced-a410-6a855a3d8347)
 
-![Screenshot 2025-06-09 204108](https://github.com/user-attachments/assets/a5377e49-1744-4d0a-a388-4d109704ab50)
+![Screenshot 2025-06-16 004319](https://github.com/user-attachments/assets/db81b635-3a8a-4c4b-969d-b4d58e25321c)
 
-![Screenshot 2025-06-09 204136](https://github.com/user-attachments/assets/c01827a3-d393-4d95-a314-359825470123)
+![Screenshot 2025-06-16 004326](https://github.com/user-attachments/assets/6a2bd8db-102e-4243-9676-7eb56e2b0ef9)
 
-![Screenshot 2025-06-09 204149](https://github.com/user-attachments/assets/b0ea70b4-01cb-40bd-882e-96ee93a0b37a)
+![Screenshot 2025-06-16 004330](https://github.com/user-attachments/assets/9178574b-c302-4fa9-97d8-405a817a4dd8)
 
-![image](https://github.com/user-attachments/assets/48b091f9-f9ba-4674-bed3-1b4bde50655e)
+![image](https://github.com/user-attachments/assets/25506336-6274-47af-ad21-fc2279613829)
 
-![image](https://github.com/user-attachments/assets/71fb74a6-5489-4586-b693-790fdcabea04)
+![image](https://github.com/user-attachments/assets/b3d93a49-be33-485f-adda-2a58c45670dc)
+
+![image](https://github.com/user-attachments/assets/05e2c120-af36-4e22-8554-1f9a4983dc98)
+
+![image](https://github.com/user-attachments/assets/d703d28f-651f-49bb-9e5c-7a67af3eadc5)
