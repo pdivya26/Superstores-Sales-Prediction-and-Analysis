@@ -7,7 +7,7 @@ This project focuses on predicting future sales using supervised machine learnin
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
 - Model training and evaluation
-- Performance comparison using metrics (Accuracy, MAE, RMSE, R2)
+- Performance comparison using metrics (MAE, RMSE, R2)
 - Visualization of predictions and feature importance
 - Prediction of next 3 month sales
 
