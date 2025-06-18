@@ -29,6 +29,8 @@ This project focuses on predicting future sales using supervised machine learnin
 
 ![Screenshot 2025-06-16 004330](https://github.com/user-attachments/assets/9178574b-c302-4fa9-97d8-405a817a4dd8)
 
+![image](https://github.com/user-attachments/assets/88e7b0f1-ef0a-439b-9268-eb8b2f65585e)
+
 ![image](https://github.com/user-attachments/assets/25506336-6274-47af-ad21-fc2279613829)
 
 ![image](https://github.com/user-attachments/assets/b3d93a49-be33-485f-adda-2a58c45670dc)
